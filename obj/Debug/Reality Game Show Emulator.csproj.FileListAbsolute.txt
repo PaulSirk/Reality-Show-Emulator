@@ -1,0 +1,10 @@
+D:\C#\Reality Game Show Emulator\bin\Debug\Reality Game Show Emulator.exe.config
+D:\C#\Reality Game Show Emulator\bin\Debug\Reality Game Show Emulator.exe
+D:\C#\Reality Game Show Emulator\bin\Debug\Reality Game Show Emulator.pdb
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.csprojAssemblyReference.cache
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality_Game_Show_Emulator.frmEmulatorScreen.resources
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality_Game_Show_Emulator.Properties.Resources.resources
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.csproj.GenerateResource.cache
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.csproj.CoreCompileInputs.cache
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.exe
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.pdb
