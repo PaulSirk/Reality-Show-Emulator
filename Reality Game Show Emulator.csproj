@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="contestantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contestantForm.Designer.cs">
+      <DependentUpon>contestantForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="emulatorScreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +63,9 @@
     <Compile Include="people.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="contestantForm.resx">
+      <DependentUpon>contestantForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="emulatorScreen.resx">
       <DependentUpon>emulatorScreen.cs</DependentUpon>
     </EmbeddedResource>

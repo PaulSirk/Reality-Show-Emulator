@@ -8,3 +8,4 @@ D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.csproj.Gen
 D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.csproj.CoreCompileInputs.cache
 D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.exe
 D:\C#\Reality Game Show Emulator\obj\Debug\Reality Game Show Emulator.pdb
+D:\C#\Reality Game Show Emulator\obj\Debug\Reality_Game_Show_Emulator.contestantForm.resources
